@@ -1,4 +1,4 @@
-# TDD Training application
+# TDD Training application forked from codecentric
 
 The TDD training application is based on the Weinberg-Myers triangle program [example](http://www.testdesigners.com/testingstyles/triangleexample.html).
 
